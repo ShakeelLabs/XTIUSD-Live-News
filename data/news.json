@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-17T21:12:32.298801+00:00",
+  "updated_at": "2026-10-17T23:10:18.996624+00:00",
   "items": [
     {
       "title": "Category 2 Hurricane Isaias nears landfall, leading to production shut-ins",
       "url": "https://www.eia.gov/todayinenergy/detail.php?id=68284",
-      "published": "2026-10-17T21:12:32.298801+00:00",
+      "published": "2026-10-17T23:10:18.996624+00:00",
       "source": "EIA",
       "category": "Crude Oil",
       "tags": [
@@ -202,6 +202,16 @@
       "category": "Crude Oil",
       "tags": [
         "WTI"
+      ]
+    },
+    {
+      "title": "Oil touches $110 a barrel for first time since May on Middle East, Russia supply fears - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOY0FIVXBWc1k5eW1ObWUyOGNQS1NGZDA5anNoLVJmVDRoMGR0ZUM5aWdDYTFDX3lKN2dYbVlhZzhuTFUwcVo3N0xmTkpBNXJKV2JLVW9qUmdmNWdxaWFJVlFZLWVPVHJjZ0RTNUdYdGxoMk9RZms0aHpzQWlTVDd4LUNnQ1RKUlZmVkhFSS1FQlk5bWl1dkU2QTQ0bDA2dVdHVzMzcTlRZi00ZkM1THVWRFgzTnYtUm9id3pBM1BWeEI4ZVFqU1ltSDB2SQ?oc=5",
+      "published": "2026-10-16T18:35:09+00:00",
+      "source": "Reuters",
+      "category": "Crude Oil",
+      "tags": [
+        "Supply"
       ]
     },
     {
@@ -461,16 +471,6 @@
       "category": "Crude Oil",
       "tags": [
         "WTI",
-        "Supply"
-      ]
-    },
-    {
-      "title": "Oil touches $110 a barrel for first time since May on Middle East, Russia supply fears - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOY0FIVXBWc1k5eW1ObWUyOGNQS1NGZDA5anNoLVJmVDRoMGR0ZUM5aWdDYTFDX3lKN2dYbVlhZzhuTFUwcVo3N0xmTkpBNXJKV2JLVW9qUmdmNWdxaWFJVlFZLWVPVHJjZ0RTNUdYdGxoMk9RZms0aHpzQWlTVDd4LUNnQ1RKUlZmVkhFSS1FQlk5bWl1dkU2QTQ0bDA2dVdHVzMzcTlRZi00ZkM1THVWRFgzTnYtUm9id3pBM1BWeEI4ZVFqU1ltSDB2SQ?oc=5",
-      "published": "2026-10-16T00:57:00+00:00",
-      "source": "Reuters",
-      "category": "Crude Oil",
-      "tags": [
         "Supply"
       ]
     },
@@ -1070,8 +1070,8 @@
     },
     {
       "title": "WTI holds steady as traders weigh US-Iran tensions and supply risks - www.tmgm.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYzU3bGZLdzdEZXNrVzlzYnl2TXdYMHVFMDdyN2VIZUVuLXRBVElOWkhuakJqSXhfTUludk91d3Jyb05OdElkRzRkWmhYSmUxNWxUMS1jNVlUOS1aTjE5N2pyUnVyVGxqSmw5Uk1PVWNJRmI0SEJTMGRWZ3VDVnNmZnBBTXFRV0RVc1J6UGc4NEVOQlJzM3J3SDlNaVp1WUk2bDRnenFGdno2X1ZGNTM0enBlRmJwT1p1NVBrd2lOcHk0ZUtBeG9LdWRIMHBpdXRNMnc?oc=5",
-      "published": "2026-10-09T17:58:58+00:00",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaUE0ck5jSDZua1h6d2tJMy0wOG1jNlNibkF3ZVdyVzhaZldEZThrbml3Y19TYUVQNEItTVZsR3N6ZkNGYWhDQVl6bC1sdjd6bnN0OE4zVks4QU9JOHNGbjUyUkphLXdSZFpjUTdGRDlDanpkZEZpLWhDZDVPaE54alFEdUxGTTA3OVFwQm5PT3pzMWkzd2pYYlA2NU5vSk1YWjFBVzFSaXZxcWFmVUdYZlFZM1dDdm1IWU5JOGNtOV9iYXY4UmFHWkc4MTZjQQ?oc=5",
+      "published": "2026-10-09T18:43:08+00:00",
       "source": "www.tmgm.com",
       "category": "Crude Oil",
       "tags": [
@@ -1184,10 +1184,42 @@
       ]
     },
     {
+      "title": "WTI drifts higher above $88.00 as Trump denies Iran sanctions relief - www.tmgm.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeUtRU0V6aDBld1hDTzMxd3B1NFpaZzBaMEYweTVlLXZ3aVVzYmdCREhPdl9rZ1JVZGtjLVptS1E1SDhqdzFHVGNpeXQ3c3Jua3Rib0N4RVBoQTROOTBPZUNnckY2Z0M5cThnWUdDNFpVQVR0M3pXWENkVHJLaVdRYWRfdHU2Vll5LTNJeXV4NmZLak12QXpDR01rX1dydnEwZEE3Rk1mZmdtRzd4LVdZVnd2N1lrMklGV1RVbGdWX2Mxc0JHTXUtZDFKU2Y?oc=5",
+      "published": "2026-09-30T07:00:00+00:00",
+      "source": "www.tmgm.com",
+      "category": "Crude Oil",
+      "tags": [
+        "WTI",
+        "Supply"
+      ]
+    },
+    {
       "title": "WTI inches up above $92.00 on Qatari-mediated US-Iran talks, Saudi pipeline restart - tmgm.com",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTU50SERnZHo5WTZZVWExSWtUY3FNeWhtZ3VGR21faDRmeUZrYnlGTE9yMzFReGdVQ1ViN0t1cXY1WGVWeWY2Qnh5aHdhRk44Y1dlRUFNNzBOOENsSG95N212TmxnT3pSZUg2TThpQVlQVjM0MFNhWm13cHd6WklUaXc1V2NmeVFzMk9FN1dObFQ0endlRjJfYjJIU2lkc01uY21KejlKRW01eEV2cmROeTB0NldtQTFhTFdncVpoVkIyMGktcGF4ZHQ1Vmo5RVU4YTFKWmJ5VVZyZVV3V3Zr?oc=5",
       "published": "2026-09-29T07:00:00+00:00",
       "source": "tmgm.com",
+      "category": "Crude Oil",
+      "tags": [
+        "WTI",
+        "Supply"
+      ]
+    },
+    {
+      "title": "WTI Oil Price Polymarket Odds Show $95 Threshold at 67.5% - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRU5QM2N2OENOcmxoMWJxdnpqUHhVVHJRQ2FpelI2Yi1FRmNzd3B1NlIwRDlaZXVPbXBxUGhTQVlCOGMxR2tMM1NfQml0c2ZSRG9jUnlHYUNVXzd4S2M5eEZOeFVSbDlqMmxnbEUyNVNhTVVHNFhLZUlhQ3loQWxxM29PNmR6bzhJV1cwcFV0bw?oc=5",
+      "published": "2026-09-28T07:00:00+00:00",
+      "source": "Yahoo Finance",
+      "category": "Crude Oil",
+      "tags": [
+        "WTI"
+      ]
+    },
+    {
+      "title": "WTI rises above $93.00 after Trump rejects Iran peace deal - FXStreet",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSkZpVVJ4WUo5MUlyX2pYVUZ2UjRfMmRDVm1McUJBNk1NZGRJMWg4aXRaa2h5VURrTktZUG4xb3R4TDlwTDhQWXBOdVgxeEU4UVdPWGgwdkdNSzB1RVQ5VVNRYk9aRjAxX1FjWGJGWDFYS0Y5SDk5dU1TRHY3bHo0d1d3Yk5yaVpkdE5jaUZHamtzUHVwUmNuNXpNOTNqdDRk?oc=5",
+      "published": "2026-09-28T07:00:00+00:00",
+      "source": "FXStreet",
       "category": "Crude Oil",
       "tags": [
         "WTI",
@@ -1540,39 +1572,6 @@
       "category": "Crude Oil",
       "tags": [
         "WTI",
-        "Supply"
-      ]
-    },
-    {
-      "title": "OPEC Commits to Boost Output Once Hormuz Reopens - Crude Oil Prices Today | OilPrice.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOUNxMk8wcDB2Q0V1NEpacXdHY1NNWFNyaEhtdW9QMHF3c2ZPTEZ1N0lLWFkyS0NTUUsyRVNHc3JOTGJIRjBNS054MWhyVkdEeVlNUlRfejI1YjBGZURSZE1MREJ1WG1ZaURaN2p5akFvT2FHYXIwVXpIeTROTXFMRzdKNWItXzVCb01rSThqYjlJdEtBQWRueENuSVVid3hkR2tFdXEzMNIBrAFBVV95cUxOOEswR3IzY1lKWEtvTDN4eTRUakxsYjVRVGVaQ1VLLXJCMFFKM29Qemc3SkVySm9OWk8xbTFGelo3SWRnYmRub21qbnhnYk1UVEJTQ3FsYVE1clpZZzc0eHg3SmswcmVxVnAxME1qYldoVkFrSEJuZ1Q1X3Y0NWxsN2J0eUZabXJVUjdsUl8ydW9YQ1VDNkhCck9kVjcyNlNYSV9JOUJRN3lUME5W?oc=5",
-      "published": "2026-04-06T07:00:00+00:00",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "category": "Crude Oil",
-      "tags": [
-        "WTI",
-        "OPEC",
-        "Supply"
-      ]
-    },
-    {
-      "title": "Oil prices decline after nearly hitting $120 as Trump says U.S. considering taking over Strait of Hormuz - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwSEUyYV9SNG1sZ1J4S0g1czAtMFl4aTVkV0tQZ3h2c1hLcUdDV1F1X3cxYVVaZ3JWaGRUeFUzemFuckhGWllDS0VCeTJ6Nl8tUU10bmJQNkNXNVcyT2YtQUI4T2lRLUN0SUp1Sjh6RlA0b00zWnlV0gF8QVVfeXFMTUtWZGpnR2p6T0lmanczU0tVUmhYZlZJR3NORVFIWklWV3JNcVJDNDMxRDJiNDJCcXBFVnNOeTAtRWhxd0hwMVhaUVQ0bkVoT1ZRTERTTkUweFUxMTZRdXRmSk45RXpKbk9hSzdlbVVRVGZJSGc0Z3UwbWx3dg?oc=5",
-      "published": "2026-03-08T08:00:00+00:00",
-      "source": "CNBC",
-      "category": "Crude Oil",
-      "tags": [
-        "WTI",
-        "Supply"
-      ]
-    },
-    {
-      "title": "What the Iran Conflict, Khamenei’s Death Mean for Oil and Stocks - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lTmhOVndTY215ZlYtaXVFbUQ2R3VxTWoyZ2t2czdjLWJKaV9KRFQ2OGZzMVVJTEJPYzBpSlp2dmZSTi1uU3BCcWdjYXFPQWgta2tobTg3UV9DaEg2OGF2cXgwNXBHYmJXb3F1UFk3RjBiQQ?oc=5",
-      "published": "2026-03-02T08:00:00+00:00",
-      "source": "Barron's",
-      "category": "Crude Oil",
-      "tags": [
         "Supply"
       ]
     }
