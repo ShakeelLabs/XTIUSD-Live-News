@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T23:45:27.396769+00:00",
+  "generated_at": "2026-10-26T01:48:06.851667+00:00",
   "method": "Free rule-based market intelligence recalculated from the live crude-oil headline feed. No paid API or AI API required.",
   "periods": {
     "24h": {
@@ -18,9 +18,9 @@
     "7d": {
       "label": "NEXT 7 DAYS",
       "bias": "Neutral",
-      "score": 61,
+      "score": 60,
       "confidence": "High",
-      "summary": "Recent crude-oil headlines remain mixed, with 21 materially relevant signals in the selected window. WTI direction can change quickly as OPEC+, inventories, demand and geopolitical supply risks develop.",
+      "summary": "Recent crude-oil headlines remain mixed, with 20 materially relevant signals in the selected window. WTI direction can change quickly as OPEC+, inventories, demand and geopolitical supply risks develop.",
       "bullish_case": "Supply disruption, tighter inventories, OPEC+ restraint or geopolitical escalation would strengthen the upside case.",
       "bearish_case": "Higher production, inventory builds, weaker demand or easing geopolitical risk would strengthen the downside case.",
       "drivers": [
@@ -28,14 +28,14 @@
         "Supply",
         "Inventories"
       ],
-      "headline_count": 21
+      "headline_count": 20
     },
     "1m": {
       "label": "NEXT 1 MONTH",
       "bias": "Bullish",
-      "score": 75,
+      "score": 74,
       "confidence": "High",
-      "summary": "Recent crude-oil headlines show a positive supply-risk bias, with 33 materially relevant signals in the selected window. New supply disruptions, OPEC+ restraint or tighter inventories could extend upside pressure.",
+      "summary": "Recent crude-oil headlines show a positive supply-risk bias, with 32 materially relevant signals in the selected window. New supply disruptions, OPEC+ restraint or tighter inventories could extend upside pressure.",
       "bullish_case": "Supply disruption, tighter inventories, OPEC+ restraint or geopolitical escalation would strengthen the upside case.",
       "bearish_case": "Higher production, inventory builds, weaker demand or easing geopolitical risk would strengthen the downside case.",
       "drivers": [
@@ -44,7 +44,7 @@
         "Opec+ Policy",
         "Inventories"
       ],
-      "headline_count": 33
+      "headline_count": 32
     }
   }
 }
