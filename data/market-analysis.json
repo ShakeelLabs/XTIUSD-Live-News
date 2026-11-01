@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T14:41:32.042363+00:00",
+  "generated_at": "2026-11-01T19:13:34.792665+00:00",
   "method": "Free rule-based market intelligence recalculated from the live crude-oil headline feed. No paid API or AI API required.",
   "periods": {
     "24h": {
@@ -7,15 +7,15 @@
       "bias": "Neutral",
       "score": 53,
       "confidence": "Low",
-      "summary": "Recent crude-oil headlines remain mixed, with 3 materially relevant signals in the selected window. WTI direction can change quickly as OPEC+, inventories, demand and geopolitical supply risks develop.",
+      "summary": "Recent crude-oil headlines remain mixed, with 4 materially relevant signals in the selected window. WTI direction can change quickly as OPEC+, inventories, demand and geopolitical supply risks develop.",
       "bullish_case": "Supply disruption, tighter inventories, OPEC+ restraint or geopolitical escalation would strengthen the upside case.",
       "bearish_case": "Higher production, inventory builds, weaker demand or easing geopolitical risk would strengthen the downside case.",
       "drivers": [
         "Geopolitics",
-        "Supply",
-        "Opec+ Policy"
+        "Opec+ Policy",
+        "Supply"
       ],
-      "headline_count": 3
+      "headline_count": 4
     },
     "7d": {
       "label": "NEXT 7 DAYS",
@@ -28,15 +28,14 @@
       "drivers": [
         "Geopolitics",
         "Supply",
-        "Opec+ Policy",
-        "Inventories"
+        "Opec+ Policy"
       ],
       "headline_count": 25
     },
     "1m": {
       "label": "NEXT 1 MONTH",
       "bias": "Bullish",
-      "score": 82,
+      "score": 81,
       "confidence": "High",
       "summary": "Recent crude-oil headlines show a positive supply-risk bias, with 36 materially relevant signals in the selected window. New supply disruptions, OPEC+ restraint or tighter inventories could extend upside pressure.",
       "bullish_case": "Supply disruption, tighter inventories, OPEC+ restraint or geopolitical escalation would strengthen the upside case.",
@@ -44,8 +43,7 @@
       "drivers": [
         "Geopolitics",
         "Supply",
-        "Opec+ Policy",
-        "Inventories"
+        "Opec+ Policy"
       ],
       "headline_count": 36
     }
