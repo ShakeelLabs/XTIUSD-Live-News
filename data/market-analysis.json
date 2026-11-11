@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T04:29:31.614675+00:00",
+  "generated_at": "2026-11-11T12:04:26.995947+00:00",
   "method": "Free rule-based market intelligence recalculated from the live crude-oil headline feed. No paid API or AI API required.",
   "periods": {
     "24h": {
@@ -12,23 +12,23 @@
       "bearish_case": "Higher production, inventory builds, weaker demand or easing geopolitical risk would strengthen the downside case.",
       "drivers": [
         "Geopolitics",
-        "Opec+ Policy",
-        "Supply"
+        "Supply",
+        "Opec+ Policy"
       ],
       "headline_count": 10
     },
     "7d": {
       "label": "NEXT 7 DAYS",
       "bias": "Bullish",
-      "score": 65,
+      "score": 68,
       "confidence": "High",
       "summary": "Recent crude-oil headlines show a positive supply-risk bias, with 21 materially relevant signals in the selected window. New supply disruptions, OPEC+ restraint or tighter inventories could extend upside pressure.",
       "bullish_case": "Supply disruption, tighter inventories, OPEC+ restraint or geopolitical escalation would strengthen the upside case.",
       "bearish_case": "Higher production, inventory builds, weaker demand or easing geopolitical risk would strengthen the downside case.",
       "drivers": [
         "Geopolitics",
-        "Opec+ Policy",
         "Supply",
+        "Opec+ Policy",
         "Demand"
       ],
       "headline_count": 21
@@ -36,15 +36,15 @@
     "1m": {
       "label": "NEXT 1 MONTH",
       "bias": "Bullish",
-      "score": 65,
+      "score": 68,
       "confidence": "High",
       "summary": "Recent crude-oil headlines show a positive supply-risk bias, with 21 materially relevant signals in the selected window. New supply disruptions, OPEC+ restraint or tighter inventories could extend upside pressure.",
       "bullish_case": "Supply disruption, tighter inventories, OPEC+ restraint or geopolitical escalation would strengthen the upside case.",
       "bearish_case": "Higher production, inventory builds, weaker demand or easing geopolitical risk would strengthen the downside case.",
       "drivers": [
         "Geopolitics",
-        "Opec+ Policy",
         "Supply",
+        "Opec+ Policy",
         "Demand"
       ],
       "headline_count": 21
