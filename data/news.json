@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-15T20:07:36.674443+00:00",
+  "updated_at": "2026-11-15T23:56:43.960997+00:00",
   "items": [
     {
       "title": "Category 2 Hurricane Isaias nears landfall, leading to production shut-ins",
       "url": "https://www.eia.gov/todayinenergy/detail.php?id=68284",
-      "published": "2026-11-15T20:07:36.674443+00:00",
+      "published": "2026-11-15T23:56:43.960997+00:00",
       "source": "EIA",
       "category": "Crude Oil",
       "tags": [
@@ -39,6 +39,17 @@
       "category": "Crude Oil",
       "tags": [
         "WTI"
+      ]
+    },
+    {
+      "title": "A supertanker carrying over 2,000,000 barrels of crude oil sank in the Gulf, Iran’s Revolutionary Guards announce - Informat.ro",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUEpzdnNMenRUS25EMWl6OWFRd1VuM1BsYjF1ZkhaQjh1YlVqWDJXYkNxNjFaT0lOXzhILWFVVU1lbEJJS0NKV1lTTDhLMTVoam5YbFl3SUFwU2psTjhPRjJLS1I1WjBKek1GZ0J0ZWJxa3lESURMNVV3TlBmbktXSGpxMTBBNlV5RWg2dnN4Z3dranI2S1FUNy1zVQ?oc=5",
+      "published": "2026-11-15T17:10:20+00:00",
+      "source": "Informat.ro",
+      "category": "Crude Oil",
+      "tags": [
+        "WTI",
+        "Supply"
       ]
     },
     {
@@ -176,17 +187,6 @@
       ]
     },
     {
-      "title": "Oil prices set for second straight weekly drop on signs of growing supply surplus - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa0ZTUUtQbXVySmRXLWtEc2xtZDk5RWkwa29OWlEyQjN3UXVzMkZTYzF3ajVoNkVXZnBnODVRTkN0b1ZwaVk4VE5KOXFqZktYbG1PN1RwdEtwS1ZEb3BBUEkxM2JtUl91NkxCMWpjbmxWV3RScndxMjJUcjh4dEpZM256Nl8tY19iWmp4OExndnRRaXQwdFRpMGRYRDFnNGQ1eEFhNEVrZjZwaW0tamJkLXFYa1I3V1EzbVE?oc=5",
-      "published": "2026-11-13T22:42:36+00:00",
-      "source": "Reuters",
-      "category": "Crude Oil",
-      "tags": [
-        "WTI",
-        "Supply"
-      ]
-    },
-    {
       "title": "Diesel prices remain high despite global oil supply surge: IEA - Crypto Briefing",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT3p0Q3E5bm9GZDNJcFJpWk1yb2x6Z0thSVVWYURCa0JQeHJxbVpqV0JTNldYd0xxNVdkLUN4dTBHM3hkY1YtN2F1SDlYZHh4RGpzZE9oMUg1VF9qcmhHTzZyU29yZUZPVTVXNGY4MGZ0YTFxb0lBUEhYQk5FbzkwOHJ5OG0yTDIxMXk4WFNNamRkeGM?oc=5",
       "published": "2026-11-13T22:12:49+00:00",
@@ -320,6 +320,28 @@
       ]
     },
     {
+      "title": "Why has WTI slumped to near $87.50 as US inventories surge and geopolitical risks remain in focus? - www.tmgm.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaFhqbWgyZ3Ixejg5T1R6cFZfZ1pqQWc5aEl1bko5NWlSMjJ2eUZkQ0loNmFCTm1rcUtKZFBZbFl3WklONkR5RHdYQXBlR1VmUnVSTDczem5WQUpjdnU0TGdBbHc4RnR6NW8zd0xxNFdXV1NRU3NZSXF2VVo3Y3ZuZ3lmT3J5OGtmNnpKVl8tclZSTWIwRDIzVm9CQnduejdqbFpLU3lRT0JfX2Zxakw0THdYWjRrcDBuTkdYSE4yek1uc0Y4RURzMXdjTXZFZGZMYUNVUjNtQndORFRL?oc=5",
+      "published": "2026-11-13T15:18:59+00:00",
+      "source": "www.tmgm.com",
+      "category": "Crude Oil",
+      "tags": [
+        "WTI",
+        "EIA"
+      ]
+    },
+    {
+      "title": "Oil Prices Rebound as Middle East Risks Offset U.S. Inventory Builds - FXEmpire",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdEdHQ1htcjYtbjRVRDFYUFliMHEzYkpKVmdPQjU5LUtoYkJmcENYV1dqV19mam1WdENzMmR5SnZHN3lwN3VCU3NjQXVudlRhbVNrRTBBZFhFXzM2QXNyNEloWXo1MkxjUHNhRGtFTk9mbnFQdERmMXpPLUFTalBvREh0aTIyRU5yQnZvQnRQOG9uaTZXUXJlb0NJTUdmcF9Mb0M0VkVJVkgtdFJaTUZNbDdnZERCRzVyWVE?oc=5",
+      "published": "2026-11-13T15:05:23+00:00",
+      "source": "FXEmpire",
+      "category": "Crude Oil",
+      "tags": [
+        "WTI",
+        "EIA"
+      ]
+    },
+    {
       "title": "Will Oil Extend Its Decline? for CFI:WTI by CFI - TradingView",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNc2hMNWQzclpicG9oNXBqa2xGQ2VMYVV5Q1dDZmRkd0FkbkN5ZkRfeGpHNldMU2E2YTcxUG11dF9lcmM1UzhKXzhqM0xpZm03NkhIamZCU2lNYU03R0RCYzVzN2tsLUJxS2MyWWwwb0JaTEtaQkFFemJuZTNTb3pmLQ?oc=5",
       "published": "2026-11-13T13:10:53+00:00",
@@ -383,17 +405,6 @@
       ]
     },
     {
-      "title": "ADNOC Onshore Crude Oil Pipeline Expansion: Second Line to Double Capacity to 3.6 Million bpd - Construction Review",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeGtfa2p2anFqRjh2b21DejM5eFNDajlYQjdQdWRRXy1iSDJHcjM1TTF3Y2hqSEwwbm5tQU9IUHZCX2RBWkFyWnM0U19FcmJnRE85ZnQwczdZX2lmT1pJNXpFOEF6LUhkTjBRQ0pFUFJKZ0FMQVFMSWVvYjNPRkFBTWVZaThEZ3VURDcydUI3cHozdzJhVjRnS1JTbDlNZ3drUTdVMjcwSkcyZDV1R0FkRmZuUEJjNWZoVXJiR293OS1aYnRyZW9iUUlB?oc=5",
-      "published": "2026-11-13T11:41:42+00:00",
-      "source": "Construction Review",
-      "category": "Crude Oil",
-      "tags": [
-        "WTI",
-        "Supply"
-      ]
-    },
-    {
       "title": "WTI faces renewed downside pressure as IEA forecasts a global oil surplus - Traders Union",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaE9xc1J3MjgzMklwaEFqUl9lR0hYd3FaalZ4dEhCNnp3eDhzWlFfZkNVaDN6VVBtZjJWeFFWT241NVJaaVlRMGEyb2dycG91SkxoM3RMdEJ2OFVCeVhTVzZYWm1RZDFHREpObGVNYlo0bElSUEFxdWdxdEp6TjJ1S2xrVkYtN2djVkZmWmd3cXZLbkVqRWZMeUNLVEdIWDQ?oc=5",
       "published": "2026-11-13T11:41:33+00:00",
@@ -436,10 +447,31 @@
       ]
     },
     {
+      "title": "Oil prices set for second straight weekly decline on growing signs of supply surplus - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb2tsbFhUVUFSa05ieWVXTEVtYlItYnUtYm9aa1k5cUg5Rm5YQ3J5alNpenRKWDN3d3BYdkY3WlJ4bHdKNnAyblVVZ3ppamlpanN2aUJMV2lhMTc5T3ZEZncza1phUmxaTHFJb3RRNE5kdVFRQ0lxYzFya0tYQU5MSWZ1VU0tOC1icGtLOFBHVzN6Rk83VExSRFEtY2hVX3F5TkN6WC10YzJyTWlHSUhfek5FU3NqVXFJ?oc=5",
+      "published": "2026-11-13T09:58:46+00:00",
+      "source": "The Globe and Mail",
+      "category": "Crude Oil",
+      "tags": [
+        "WTI",
+        "Supply"
+      ]
+    },
+    {
       "title": "Crude Oil Futures Rise Amid Firm Global Trends - Rediff MoneyWiz",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQjQweXAwVWQzVUIzWDZsN2pnQXoxaU84ZWlLSjJJdEVJc0FVaTJSbVQ1TlZFOW5SMWNRb0F2bGhQRU03ZUpSZlJ0Qy10bXU2eWd2RDFTeGpaRW5SdWxQd3ZPSXBQZGhEMFpucm55M0JfaEhWWHQwQTFFZjBIc2R1akExa3BqOFpqNmFPeVFpdENPc2lRVk0tZkNSb0xyT3fSAaQBQVVfeXFMTjJabnozdUpXUTN1Vng4SjFFTE1zOEJXM0N4TTVYRk1wcmpBenk3LUxOemlqNHpnc2ZhOWhuU21tN3NldlNSRTZHdjF6R2pkdk9YQV9XT0JQNUpmWjZzYWE4eHBVVE85S0Z0bFVPMklVRlUydUlMZnBTWmtFY25KSFMxQTA5RHdkbUtLY25lWVRmQm1RVXQ5bm91VDdBbHZWdXQ4V24?oc=5",
       "published": "2026-11-13T09:50:12+00:00",
       "source": "Rediff MoneyWiz",
+      "category": "Crude Oil",
+      "tags": [
+        "WTI"
+      ]
+    },
+    {
+      "title": "Alaskan crude oil to grow in 2027 - Oilfield Technology",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOGVyYl9JODBPVjVOSWNaT0poT0d2ZllVRkdxb0podFduUWQtZXpFMWdXTDRRd0dXOVRyMTJVNFF1a2RYMlg0Y1d5SEFqWmJRR3dRajkxeUtlTVVVazJVaWFELXNaRUU2dVlsTXBWUmtwNmZNSmRiZjh6a1AwckZaZlFwcEhIWFRDT1h2cGRERVh5dWlONUxKS25yeGNEWW5BSFZ6UA?oc=5",
+      "published": "2026-11-13T09:38:22+00:00",
+      "source": "Oilfield Technology",
       "category": "Crude Oil",
       "tags": [
         "WTI"
@@ -476,6 +508,17 @@
       ]
     },
     {
+      "title": "US commercial crude oil inventories rise by nearly 5M barrels - Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORno1Vl9vSG9CMUFHQnVPWHNTQ3J2bHZNcGVodTBTbjAtUXNMWTJuQUJoLWZacDMwMGxfTklTVjNJTVYzcktjdjloVlRUR0hNZ3E0SWNYMXlVd1VST2tFNHVjZF9oM0FFbE13NGRFUGxZSVh4WkFvR3RTdHZPZWNpVUk2U190aDJQVms4Z3F3bFV3amdudVFvcktkYUNENzlTQ3NMREVR?oc=5",
+      "published": "2026-11-13T07:31:24+00:00",
+      "source": "Anadolu Ajansı",
+      "category": "Crude Oil",
+      "tags": [
+        "WTI",
+        "EIA"
+      ]
+    },
+    {
       "title": "EIA reports a rise in US crude oil stocks - https://www.engine.online/",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYVV1VnRhOUpWc0JaeG9HTXVFUVpqQkh2ZjV3Z0pIVFNjQ3A4Ul9vc1B0WHk5RkFRVzVNVUdON1dSZ3lwRDk3YmNGY2xYNjJrODBHVUZTQ2dEN09rbUtBOE4wU0t4bnB2VkhFQVFXQ3N3SV9JVXpRVGlPZ3hHWnRvTzdyWQ?oc=5",
       "published": "2026-11-13T06:20:43+00:00",
@@ -501,17 +544,6 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdndrNzNOS3lzdG5aQlhVSHg2Vm1GQk92bzlYMDE0cW9kbUdoNWRRTWhYUDRxT21kMDh4SXR0RnRCcWVub3RBMTJUSXNSZ1JUZEdMS0Y0S0Zjb0R1YTVaWXQwQkRYa0Q0ZUNzMmRxc3BPM3pIbUU5V0g0d3JqMGdxcXZVVTdSbFoxQVN2dXdjZGpOcS1zOGVDcWhQWGpRdDdMeVVGWFVHaWFYTVdPcU5RQ2xZTWxKSkVTTUhHMHRCNkNXMlJlbk5z?oc=5",
       "published": "2026-11-13T05:26:00+00:00",
       "source": "FXEmpire",
-      "category": "Crude Oil",
-      "tags": [
-        "WTI",
-        "Supply"
-      ]
-    },
-    {
-      "title": "Sugar market outlook: crude oil link and tighter 2026/27 supply - CMB News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYkhIdUZucVp1TFpoZ2VoOHFnMy0zaS1sX1VOTmdWVEpLQWRDdU55aERQUk53Ti1Va2FPQkFsUkdiak1jaGxfYzUxaGlmazZBdktwWG11UXZ5a1ZCSU42OXplQmRybTJkNDFlNWF6a0RFUnExQWstM2kxWlBUSWxXZVRfWUttNG5rODhoaVk3SHcwaUlvZUFUc2dEeVltYW1K?oc=5",
-      "published": "2026-11-13T05:23:38+00:00",
-      "source": "CMB News",
       "category": "Crude Oil",
       "tags": [
         "WTI",
@@ -550,17 +582,6 @@
       ]
     },
     {
-      "title": "Saudi Aramco Attack Raises Global Oil Supply Fears: Brent And WTI Rally; Will Crude Prices Cross $100? What’s Next? - The Sunday Guardian",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZ0tKNE5aVGhRQmc5U3AzQkQ2V2t0T1QyaUc4QmpjYjd4c1ZqbzNkMmlOaW5nZlJJWm1JRU83UEdOS0EyQVVNeHdMSjRXa2hKM0JKaUlURTdBUGwtVFBFampaWlFfN2hVS3Y2cDFZS0E5aVNpWGlITnR4SHMzWlI5MnJKVGQ5dC1rSkhCeXVrdkZwM0lZeFF4ZWZ6am1LNGZLLTE1SFY0QlM4bGw2ZmxDV2RyMTY1ak9NVms1QmNZcGJLUjZWc0o5M241RzdWNFJDZVFrRGwxa2dwX3BfVWtoYjJpYUs1YVBDSVHSAe8BQVVfeXFMUGRSTUxiZ0U3SzJtU28zS1A3aWtBbnVxcXpuckhGQVhoZjU2QktJV1NMZ0g3RVo1WjhYenF2cUtsa0ctQld4dGM4YWc2TWFESDVvWFZXQWJ2U0xHcm1XZ1NNb25Ybk5zZXNBREcxLXBNTjZnVEVrQXhENkJ2WjhHVnNlN2xOM0lZbzFDbFMyeS1jRG1CMlRlZHNHY2RIVnFhb2hIUVp0R0w4WFQtdFp2M3BEUmxMNGJ5TS1wNVFEcFNEaG1MOHQ2aFJkM2dBMHNRcGtWWmdoSGpnby14TXQ5d09XN3o1VV9UWlRlbFRvSlE?oc=5",
-      "published": "2026-11-13T04:07:17+00:00",
-      "source": "The Sunday Guardian",
-      "category": "Crude Oil",
-      "tags": [
-        "WTI",
-        "Supply"
-      ]
-    },
-    {
       "title": "Natural Gas, WTI Oil, Brent Oil Forecasts – Oil Rallies As Houthis Attack Saudi Aramco Facilities - FXEmpire",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQb053RGZzbi1RZktJajZLS0lVLXh3bjBqN3NHV1dqQ05zdHhQUUUtaHVOQ29zVXNkaWpXQVVjV0ZwejZQZWk5cFJ1c0IyX2x6V1huVmh3NXVob0gwVXMwTmxrMFhkdk5mM1ZNTERwcHl0aDllbDdvQ2pIWE5pQmZGUFZ6Nm50bS1yZlpUU0ZTRzA3bWZIaDRQRW9yLUVkWS1fSGxsVUtGZ0ZKYlpJTy1oNkpiLTE5YXVDOTYzZF9xdy1Wa2U4MTBIYU8zdkhMOEJrTC1IY3ZFcG4yUDBL?oc=5",
       "published": "2026-11-13T02:45:00+00:00",
@@ -594,6 +615,17 @@
       ]
     },
     {
+      "title": "Alaska’s Crude Oil Production Set to Surge for First Time in Decades - Small Business Trends",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU1dsRmZMeDU5c3QwdXlYWjZuNUx3TjZqU2ZTVHYwWnN3YjB5VHpBalFRRGJ0cHdvdWlHWnkwcWxISElPa2NVNW9odW8zMHZqYUVTaEdtRVJDYTI4aUlsVnF4REVuYnNKakljUnV3dDFNdW00VkZtd3A1RXdsT3g5bUZCOWY5UV9icWp3Qi1fWkZjUHBEWk53WnBIRQ?oc=5",
+      "published": "2026-11-12T22:01:50+00:00",
+      "source": "Small Business Trends",
+      "category": "Crude Oil",
+      "tags": [
+        "WTI",
+        "Supply"
+      ]
+    },
+    {
       "title": "Oil Rises as Trump Dims Iran Deal Hopes",
       "url": "https://www.rigzone.com/news/wire/oil_rises_as_trump_dims_iran_deal_hopes-12-nov-2026-185073-article/?rss=true",
       "published": "2026-11-12T21:50:35+00:00",
@@ -604,10 +636,10 @@
       ]
     },
     {
-      "title": "NY Crude Extends Gains 2.6% as Tanker Attacks in Strait of Hormuz Revive Supply Fears; Gold Plunges 2.9% - BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51NU0yQ05PeXFQUi1hYkRra25VSUlNN2czNFRiRDFxYmpkRlNXclhiRExReC1zeVR0UmxGb3FYQWY2UDFBUGszZV9tQkxlNlg3ZHdtS21iazRJc0h4RHA0anhfbGxBdHJJZHA4cklzYVFuQUZOU1E?oc=5",
-      "published": "2026-11-12T21:25:00+00:00",
-      "source": "BigGo Finance",
+      "title": "Crude Prices Surge on Dimming US-Iran Peace Prospects - Barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX1Q1dmI3dXlndjFpMzgyenV1TUV0UmlrU2lRMGpkcFJPMTRhaGp4MFRTZVlvcDNEM2J6bFFjd2JSMzdUOTgyZkNUNlhhNkVfbUt6eGl3cmhyN3ZqOTM2SUdfTWZZRXdacGlCQmNfajltREJXU3NaT01lQUs3cVRGeG1SVjZYbVQtYXRoTHk3SWtCb3RjbkRtaEhiMFZaQQ?oc=5",
+      "published": "2026-11-12T20:15:47+00:00",
+      "source": "Barchart.com",
       "category": "Crude Oil",
       "tags": [
         "Supply"
@@ -621,38 +653,6 @@
       "category": "Crude Oil",
       "tags": [
         "Supply"
-      ]
-    },
-    {
-      "title": "December WTI Crude Oil Contract Closes Up $2.21, or 2.6%; Settles at $88.74 per Barrel. January Brent Oil Was Last Seen Up $2.91, or 3.1%, to $95.67. - marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVTNPYUVYRWJvVG0xQjBzVFRpTDBORS1hRllsWEtqa3ZLQTl3ckxidkNtb0pBTEZsQkt6NHVsd2RFZmExb1NzTXk5dFgwUng5Q1pubEZsaGQ0TU45NkYzb00yTE8yUmJRNV9uWVE2bzFNMmVzZmZHSnBRR1ZWVVR1MjlYV1FfTHQ5VDJXbWFORk5MdzVleldidDZwaEd1YWQ5Z1pVVVVxSDgyQTBEQ3ZtZk5LWW1VSDFGTldYejVDSUNPS2J0cXlPRDBUT0I1SHJ1R2xJeHloVFRoVkpqUVNpSw?oc=5",
-      "published": "2026-11-12T19:54:11+00:00",
-      "source": "marketscreener.com",
-      "category": "Crude Oil",
-      "tags": [
-        "WTI"
-      ]
-    },
-    {
-      "title": "Oil prices fall as OPEC+ production increases - Inspenet",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ERjBLb1RubXJtdlJnX1F6MkFhMXp2SmZQQWh1U0t4ajZraVdrMVhRbG9UcmhkSWpxRUhRMEF4SjlwVFdYbXYxa1JiNU9HdTlMbDFJMVFJR3hwcDgzeFlPT2t1aEF1LWVOSm5iOTBxc1g?oc=5",
-      "published": "2026-11-12T19:35:08+00:00",
-      "source": "Inspenet",
-      "category": "Crude Oil",
-      "tags": [
-        "WTI",
-        "OPEC",
-        "Supply"
-      ]
-    },
-    {
-      "title": "Gas prices might stay high for a while — even if crude oil falls. Here's why. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVmQ0Z0dVV3h4bVNYOWJ5cnBsUGpSRy1ZZHBjZ0l6Z3pfOHhxUHBRNFhXZjRaMFJ2aTJrQ2hPVnNHbmZ4SUcyV280dHZuOE5zcWVnR0poU0lPQkRnU3ktU24yOWlZWGdOT3ltX2ZiM005MnA1b0lRRlFFaEE4X3ZoNTlmUDVaaWMwRHVGR1k0eXc4dWlaLXctVXVTbEY1Wk1DQkRNYkxWLVNsOWtYUXZLM2RsZEU2TkJ3S1VZSw?oc=5",
-      "published": "2026-11-12T19:35:05+00:00",
-      "source": "Yahoo Finance",
-      "category": "Crude Oil",
-      "tags": [
-        "WTI"
       ]
     },
     {
@@ -689,14 +689,15 @@
       ]
     },
     {
-      "title": "Crude oil inventories rise unexpectedly, pressuring prices By Investing.com - Investing.com South Africa",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdnU1M2dDTkVzdy1aYVBfcDVaMS1nT2xVRVVSMUtsX1Vyd3g1cVhQdU8waWtBQ0FqUUVmdzJWX05rbGpJdDFaVmhiTVkxYVVVS09odmo2UmRhamhpeGxXSHdURjVqYlAtWDIxbk5aUjhSMnJTdHhRaGdaWkQ4ME1ZU2ZTc19mYWxtZmZfUmNzRkMzZ3FaSnJUal9GbEJMUVNTVVFwZExuYXlDX1JPdHRkOEJjenhDcHhoekE?oc=5",
-      "published": "2026-11-12T17:09:57+00:00",
-      "source": "Investing.com South Africa",
+      "title": "Alaska crude oil production to rise 13% in 2027, EIA says - BOE Report",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOLU5VY2VaSzFIRnpRb1JaNU5paV9yRnRhVkhySlJSakhwcWkzWnFxb0pDanFLMU5xTXRhbXljVy1EM0xzUFhLZmFtalM2aUdqbTZURDRTbVp1ZXljVlZpWmtRbTN0dTFXQVlkMUxaNV9NTkJ6eXlMY0tzN2lEdTFtb2o2U1R1bnVvcjk4OXJmVjN4TFnSAZgBQVVfeXFMTlNJMHdxS29NUTY2cFo2TWRKeTN4aENUVHNMLXlUejRYcm5mYUZ0TDh4ZEtoUW1ncnkzSXlMQ1V4VVZxRG9QdE1RaDNTNTVMb2hwMFNzWWN3TEdXaHczWXFjZ0VWb29pcWtBN0FPd29DVTVZQkNWOVlTT21qS0p1aGI5a0M5QXllTzVkckV1Wm5nRTdqakU1Vmk?oc=5",
+      "published": "2026-11-12T17:15:00+00:00",
+      "source": "BOE Report",
       "category": "Crude Oil",
       "tags": [
         "WTI",
-        "EIA"
+        "EIA",
+        "Supply"
       ]
     },
     {
@@ -774,10 +775,10 @@
       ]
     },
     {
-      "title": "EIA forecasts Alaskan crude oil production to grow 13% in 2027",
-      "url": "https://www.eia.gov/todayinenergy/detail.php?id=68444",
-      "published": "2026-11-12T14:00:00+00:00",
-      "source": "EIA",
+      "title": "EIA forecasts Alaskan crude oil production to grow 13% in 2027 - U.S. Energy Information Administration (EIA) (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5pWDhKTG9PTVNPNWQzRktQWHgxdW5nWnZlV3dsV01SSkpBSzhaNlpzM3FLOHEtanN3WXVmZjR5WHQ5RGVpRjVKeUhEN0dxaHllTGVqeG9xYXdKdDBYdy01Vk15SQ?oc=5",
+      "published": "2026-11-12T14:06:49+00:00",
+      "source": "U.S. Energy Information Administration (EIA) (.gov)",
       "category": "Crude Oil",
       "tags": [
         "WTI",
@@ -786,13 +787,14 @@
       ]
     },
     {
-      "title": "Crude oil turns higher as Trump says no Iran deal needed (USO:NYSEARCA) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYVo1X05fSUxORWJIM19pX0RCd1VwNTF1OE9aV3pLRjBlMk1CU3ZTcGEyQzktOFByYzdtblRIelhyM1d4Qm93RnZrWUVSSU1LN1lQTVNTWkVCZFNjS3d6dlN3WTJzbHZDRS1oTXdERklDUkNaM1Z4c1NYRG1iTW94eFRFcnVvbWc2S01hLTJ6Ry1VYUR2SnNaMHBB?oc=5",
-      "published": "2026-11-12T13:33:11+00:00",
-      "source": "Seeking Alpha",
+      "title": "EIA forecasts Alaskan crude oil production to grow 13% in 2027",
+      "url": "https://www.eia.gov/todayinenergy/detail.php?id=68444",
+      "published": "2026-11-12T14:00:00+00:00",
+      "source": "EIA",
       "category": "Crude Oil",
       "tags": [
         "WTI",
+        "EIA",
         "Supply"
       ]
     },
@@ -1036,16 +1038,6 @@
       ]
     },
     {
-      "title": "OPEC Forecasts Global Oil Demand to Grow by 2.6 Mmbbl/d in 2027 - Egypt Oil & Gas",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVU9hQmNWalBZZklOamxrOE1GdWRaT3JsS0NhSFZpaXIwcFBlUTBfUzlqbndPdlpKSm5ZdzJ5djg0NTZkQ3g5b0IzYnpyNmVJd2dURWI2ZFA2QzF2QzFtVnJzNVFiNUN3U01LOW5sZTdKSmQ1SlFURTFpUEhfU2k0RlgzNGNPaWY2REU4cVZHeEJqZWlBMXlybw?oc=5",
-      "published": "2026-11-11T15:03:38+00:00",
-      "source": "Egypt Oil & Gas",
-      "category": "Crude Oil",
-      "tags": [
-        "OPEC"
-      ]
-    },
-    {
       "title": "OPEC’s Oil Production Nears Prewar Levels on Saudi Rebound - WSJ",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbkZ3Y3c3WE51TWt2RUVhZUdxbk5PM3FCdjNERW94S3NEckxuUVBidkxiRHdHUnl6RGxLZnIwZjh1UTlmak1tOW50MmZWemFEQlY5UUs3Z2pISzVodWhiRjFZSHN0T2xLTkVIV3A0Y0xUbnJOVy1ZRDJYWlNPbGJ6M1VHa2VLN2xMRDlJdkpESnZLZzFoWHc2WFg0eE43dzZsTGlEU1JVQjBkUQ?oc=5",
       "published": "2026-11-11T14:43:00+00:00",
@@ -1100,17 +1092,6 @@
       ]
     },
     {
-      "title": "Saudi Arabia leads further jump in OPEC+ oil output despite war - Deccan Herald",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMHBPa1V4MThnQzlfVmtRTlR3TmpVMDZMZ3piM1pjek53TVRpeDhZd1hIYU9hbGxhSEVOSEpKNFJKdDR6ZmxnWEpmWUpfazRyMWYzLUIzdi1fWTVQQWZvcDdQd2V1Vk5oNXdlYm5HTW9McUZtaG1FYlZrdERBWTRqRnZ4X2kySU9CaDRkYTdHUVJaSG9mNzFTaS1mVmJjR2ItUmM4TjFvMm5DMDNhTzh4cw?oc=5",
-      "published": "2026-11-11T14:06:09+00:00",
-      "source": "Deccan Herald",
-      "category": "Crude Oil",
-      "tags": [
-        "OPEC",
-        "Supply"
-      ]
-    },
-    {
       "title": "Gold, silver rebound after CPI-driven selloff, Hormuz tensions lift crude oil - Kitco AM Report - Kitco",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOUp0cFVSZ2RUU2QxeDJYaklxUVk5UTdNT2dyU0RYRHhoR0ZiUzRWTWZQc01pSUFKdzZEa3YzWU5EOFA0MEs2NnVnV2tON1IwOWw5UzgyOXktcGtzVUpkSHVjVlhlXzBTYkNEaEotQUlha01iZkpNWktaUUdVMzhuZHM2RkxiMzg5THBfUjFRSUpFUDZKcGhoX21BTXZEVGlKcGljWUhhZkQwRldhTmQ3cVVBX0VaUWR2SVJCYWFR?oc=5",
       "published": "2026-11-11T13:33:41+00:00",
@@ -1119,16 +1100,6 @@
       "tags": [
         "WTI",
         "Supply"
-      ]
-    },
-    {
-      "title": "EIA Sees Brent Near $100 for the Rest of the Year as Crude Futures Ease Again - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUVotMmE0aGhFZ2tmeTlxbWZNc2xDeXBXdFhrUm4yczdCbE9ROU9XcFZjbXUxejVnNGVXN1gwbGhQNmJvcTBleDNCeGRxNHAxNU1KV19XcXYyU3dDOUp4Ynk2c19vcWcwUmk4OWNzSjRjUHExa1JsajB3UXlTUndxRllUelZhdEwwd01XWHk4TVZiWEpXdHo3WUZ2MWF4VmlObXdzVFY4RkhPMTI4REx3Vk1sME54TGFHTHh1TjEtOXdCSG1oTjZPMm03eWJPVEFGQzA4?oc=5",
-      "published": "2026-11-11T12:30:00+00:00",
-      "source": "TradingView",
-      "category": "Crude Oil",
-      "tags": [
-        "EIA"
       ]
     },
     {
@@ -1269,18 +1240,6 @@
       ]
     },
     {
-      "title": "Saudi Pipeline Attacked as OPEC Output Climbs to 90% of Pre-War Levels - Crude Oil Prices Today | OilPrice.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcEN5Rnp2anlVblctWFNKal9hWHFXbGJaWk9KSWVIaHV1NmZGTDZPeWNPRDVlblVhTWNqRV9XOHFSbnducTItYmI3WnA5bS1PQUVTSmJ2dWVXSlp0eTZTOWI5ZEFTNGVLUVpQM3hmdWxwbU4yblFDcTZYanM4Wk9LUHpYNTJtb3ZhWTFFbzRYc1VaYlh1NWl1NEh1ZkpEOW1FMi1SeEtDYUdSZERYWlRfaXZ1OTNvWE5kQXJaSmt2R1M1d0HSAcgBQVVfeXFMTUVIRWVNODhhQzRESnhrXzAzWjhQNzJkT3BycHNQOE4xZDhXTUxiTmlfTG1FbFRyTldfMEVoZm5jUlBNMkRFXzlSM0I0NGhQUFJ2TllGWjFwQ1VyYzF0bm1MaTZLUWxLTm11N3ZXdmJnSnVLOWVjZEJSS19IaGpWUVFMaXFOeHU0Zm81TXBISjM2YnFsNmFqMWUwN1Q0T2ZTVkhGcmxLZUQ5LTRzenZiTy1FUnc1V3lqWExmbU9FYlRfVzhrdHpMN04?oc=5",
-      "published": "2026-11-09T17:16:00+00:00",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "category": "Crude Oil",
-      "tags": [
-        "WTI",
-        "OPEC",
-        "Supply"
-      ]
-    },
-    {
       "title": "U.S. crude oil imports from Venezuela in July were highest since 2017",
       "url": "https://www.eia.gov/todayinenergy/detail.php?id=68425",
       "published": "2026-11-06T14:00:00+00:00",
@@ -1374,10 +1333,32 @@
       ]
     },
     {
+      "title": "IEA Sees 5.7 Million Bpd Oil Supply Plunge as Gulf Recovery Slips to 2027 - Crude Oil Prices Today | OilPrice.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSVJ0VDU3U3AtR21iYmp3RWo2U0lwMTZzZ0lRU0k0T0JtWU9hdTNOUWlxeWpMRG9nMVlKczNJWk5vMi11RFVBTmZLbkR6OVhqNWhnUjBoY19kTU5DS19TcVVyemw4cmxFZXA5TXc0RXlhRHZCNUVwcXctYWx1bV81X0I3ZUVMSExkM3JGU1BhRERPSkU0ZzlDWWNid3k4Z1Y0WE9Oay1ja3lJMVFIcVc2dHhkMFJwOWtLRnhoaWpqZlpBV3VLSmZv0gHMAUFVX3lxTFBRQjhjWm9fNHgzbjQ3REVCdnN1cGdwazgwZmFQWGJnX2pqWHZmZVJHdnJPb09WUUpmV0FLSlN5aWNtd251X1NlX3NrejhOLTlkVEdUUmF4NWluWFIyNURIOWRCZWU2c1dNUjJQZ0dMZ1hWZTRra0pqYk82NF9kcUlCUzk5Uy1EUW8wNXdXTU5SaVlLbTVKMjRyU1plVDA1cGRRZEp4bFdNSHZMUldha3FkdGwzdzlXRE11Y0V4dHg3aXRQVmNaTDhaLXg5Xw?oc=5",
+      "published": "2026-09-11T07:00:00+00:00",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "category": "Crude Oil",
+      "tags": [
+        "WTI",
+        "Supply"
+      ]
+    },
+    {
       "title": "United States on track for record crude oil production in 2026",
       "url": "https://www.eia.gov/todayinenergy/detail.php?id=68125",
       "published": "2026-09-10T14:00:00+00:00",
       "source": "EIA",
+      "category": "Crude Oil",
+      "tags": [
+        "WTI",
+        "Supply"
+      ]
+    },
+    {
+      "title": "Crude Oil Prices Soar on Fears US-Iran War to Persist - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNW90dnBQbkNFZ2tkamJFMXJOTWZWazVrTlVPcWVSaVBoLWt4a01kZjNFVlZSRlZsMU1jSHVYa29HQVVmOGZ0aU96UkZ2RHhVQzhOcUtXdmdRSHN3VFVYcW1kd0t0TjhLYnRCUXV6ZlU5dFk1SnRMYmtuNFNtYjRTTHE2R2x2NVBXNHgzelpSaWZydVpUYWNKdUxYWnJLZXNLcDNySlRkajcwZlFIempwdA?oc=5",
+      "published": "2026-09-10T07:00:00+00:00",
+      "source": "TradingView",
       "category": "Crude Oil",
       "tags": [
         "WTI",
@@ -1448,12 +1429,37 @@
       ]
     },
     {
+      "title": "UAE’s exit from OPEC+ reduced the group’s share of crude oil production and capacity - U.S. Energy Information Administration (EIA) (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ZbFJINXVuS09xYzVHWlNIMTFINFlMM2tFTEFaejREVzh4TkRPNDVTcnc4bmpLNTRTZkJONEdCZ0wwS1ZmVWh2OHo4VXQyeTlqQ0NyM2IxdjVpUVNVNi1XZ005QQ?oc=5",
+      "published": "2026-06-23T07:00:00+00:00",
+      "source": "U.S. Energy Information Administration (EIA) (.gov)",
+      "category": "Crude Oil",
+      "tags": [
+        "WTI",
+        "OPEC",
+        "EIA",
+        "Supply"
+      ]
+    },
+    {
       "title": "Brent rises after U.S.-Iran peace talks in Geneva are abruptly postponed - CNBC",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY2VWS2x4Zy1kOEE0ZzJwem05YW5GdkxJTnp6a2w2UFRYOWs4STFtY1lOTGJmbVZfUTVDamVHc2RXX0x4QmtZMDBTU2JKQnR1U25BZFk1RmFwVzdhSFJxVXJ1WmZhNk9tSHVSeFpNMUVDMk9LSXBqcDJ2VUo1cWw1WTRESUZKd2l3TUQwSDY3a3hnSkZqZmdUSU52TEJMdWlJVGstWVhLNnBGb3ds0gGyAUFVX3lxTE5RemRYYTNUSkZacG5zdEF3TC1CQk1EeUIxWlpfc3BVa01vTmllUHVDN1FSeHJuYkZCb19aLW5ldWZ4Vzd1YWxsR2s2bFBGdGNwQ0xUQTQxanBhNmZiR1RJX3gtcE13dFpMS0xLY3ZPY3V4ZXVxaktXcGNyQ2ZlcTdvSDdibXV3SThIRU5WWXdYZ0R3amxyQVBwOGVTdlhoaTl6UDQ0TUhwRHpBdE9HdEhwd1E?oc=5",
       "published": "2026-06-18T07:00:00+00:00",
       "source": "CNBC",
       "category": "Crude Oil",
       "tags": [
+        "Supply"
+      ]
+    },
+    {
+      "title": "OPEC Oil Production Falls to Lowest Level Since 2000 - Crude Oil Prices Today | OilPrice.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcHpTeDBobm9aRDByUm1WemFfVmV2TFZiNFdCRGduYzJPbXVyaVIxT1NMSnUxTmpheGp2R3JYdmx3UW5DS3A3bmhVYWdXY25hcmZQNUpyUWJSNFBZUVRmMExrM21BTTJ1ZUNBV1VmVEViNUt1d2ZWTkxmREV4NFAtdll0UFFPWDRWRzFpMXhENmh3OEZMeUdBYTl3WVFPdWNWc2Z1bnhlRVZ0Vjl00gGyAUFVX3lxTE5YMUxqS1dJcS1XMXNvNWphNkZCdlBmTEZWUksyemdwU1dkeS1UMGVBbWpNcXp2ajhiZmxVS3hiV1V4SjJ3MHJLcmNjR3BWSUlYckpadk1mYkNxYVF5Q0kzdUQyRXQzT3U5Y3ctYUo5eEhnTjBvZzRjbnlUeU5xWlpsZkh5YlZxWGxQdk12aVczMFlfdjZYLWM0SnloZlUyVFpRSklHUXZDbXRUMWU0d2N0UVE?oc=5",
+      "published": "2026-06-11T07:00:00+00:00",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "category": "Crude Oil",
+      "tags": [
+        "WTI",
+        "OPEC",
         "Supply"
       ]
     },
@@ -1469,6 +1475,17 @@
       ]
     },
     {
+      "title": "The UAE is leaving the OPEC oil cartel. What could that mean for oil prices? - The Conversation",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMmVmUnJrekhjS1BKUGdMVTFrVnU3cDVQZ0ozMFZ2cG9wVGsyY0thbmtrTlBQcno4QVAtdEdObEVhWWVaNDRoVXloNktwUEVlaW9xem9GU25mSXpaWi1wQnJrZnZlbTloQTJCQjZhcm1aYmdrVlB5cFJIdk9idngzQ0Q3RG1ZMFEwTmtNOVJ4WFJMajA3NnhhWXd4aTFvSU8zM0Z0aEs2b1Bzb0dtbHc?oc=5",
+      "published": "2026-04-29T07:00:00+00:00",
+      "source": "The Conversation",
+      "category": "Crude Oil",
+      "tags": [
+        "WTI",
+        "OPEC"
+      ]
+    },
+    {
       "title": "Global Oil Inventories Drift Toward Record Lows - Crude Oil Prices Today | OilPrice.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRk9lOGdmTHFxNGNYNldrVGpzWklHUHlJTktaRUNVZzRreHJuTzB5eUNkeUo3WjNhWkpHcDcyeVAzOGxDck1YT1ltbkd4RVJYczJlVmxyWWF1UWlRZ2RYU2k5OTY5bUtwWHY1V2kybkhNN3hKWXl4X1dreGJHMkJmeFZ3bXlsd2dPcnM3QXhoRUZHclZOTG9BbGRuOTZxUVZIN1BNbUx30gGrAUFVX3lxTE9vNkNGRE10a2EyaGJicW5zZE1Bdi1sb0xKN3IxMVRnczJFNWkzWEY2MjNkMmR6Yi01WTBRZzY4dFAzTXMwVllLSTVSNlNvTC1POTJXOXBPR0UtZnhBOVlReDA2UVdIZkNsWXNtbW1QMWhCaGtpSTN4UUtJbTllVVhUNTZNLVl4eC1VS1pGYVowVkRCTG5pVDVPS1VwUHFQZHZKYmkwUXd2aDR3OA?oc=5",
       "published": "2026-04-22T07:00:00+00:00",
@@ -1477,6 +1494,17 @@
       "tags": [
         "WTI",
         "EIA"
+      ]
+    },
+    {
+      "title": "Implications of WTI Oil Futures In Backwardation Amid the Supply Crunch - CME Group",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVmVJSUJVV19IYmJ4bjJMZ09Pc0dnM01ET0k2a0RkZkp0UVpIWTl3RXNjQkFxY0hqT212QVpKQjREVDRBRzhYd1duaWVfeTY1VGtWUFhGQmZkWXNDV3FnOUtDWnRocHN5dFR4RWdoVXdMT3l1MUV3amNGQ2hPVFdOTUJxaHpka1FlMVlKOVlmQkJuajh0ZkRhNTZIMTRXd3l2eUFZX2hwSUtNdTJZWkZ1ZzF5Wm1OY1JVc0JiQXdBM3JwbEJ1TndHQlIwcHhZdw?oc=5",
+      "published": "2026-04-16T07:00:00+00:00",
+      "source": "CME Group",
+      "category": "Crude Oil",
+      "tags": [
+        "WTI",
+        "Supply"
       ]
     },
     {
@@ -1565,28 +1593,6 @@
       "tags": [
         "WTI",
         "Supply"
-      ]
-    },
-    {
-      "title": "Oil Prices Slump as Global Stockpiles Surge and OPEC Flags a 2026 Glut - Crude Oil Prices Today | OilPrice.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT24yZ0ZXZWZ0TmhsQUJ1YTFuNnBMdmZHYkxaQzcxQU1wbFV3MWhQMm05NkVWRzZ6WmVQV1d3cHpwWnVOWlF1MjhGcEIxS3drbzRTZlRpT09WbEF6M0V0QlMza3NLeTA2TWZlMVdCckJQM3dlWlpwWkhHLWc1dUx6QVE0NE1Lc0pISnByQ0phaVhnbFVsWVFZSzNKemdIRTlHa050MTdvTnR4Y2VFTVNpMGxMVVNrSjlXTUHSAb8BQVVfeXFMUDYxTTQ2eFRzajBrQXdXcEpPX0lCTF8tOWs5QjFaNjFvbjdVdWxkYTdDQ1NWdUcwV3U2LU5kM0tYWkFXeE1PWkdqYnJoSVhra1lsZW1zbEwzZHREVlZrYWRIRzVnaE8taVMxUThyRmVHaXlCdTh6emI4SWFEWndXMl9EWGxJa25ONVNKTGU5VVlsdk9yZHF1bEtCbTRoZzd4S2tJUHJ1LVdMR21kdVF6Y29nYUxvS1U2NUR4UGNUZW8?oc=5",
-      "published": "2025-11-14T08:00:00+00:00",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "category": "Crude Oil",
-      "tags": [
-        "WTI",
-        "OPEC"
-      ]
-    },
-    {
-      "title": "Oil Prices Sink 4% as OPEC Moves to Balanced 2026 Outlook - Crude Oil Prices Today | OilPrice.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZzhJeU5KYWx2Q1lEZ2hUbWZsRUVEWklSczdraUxNMm1QcUxKUUdid092TVdiUjE5QXFrSW02aHBzUzJqLVVqck9PcUV2d09uY2s5dDRzWkF6dnZjNDhhdUZBQnRuaERuYzlQVkpLZm90NTZ5Z3lHOE4yM3V6SWYwSEtXa0I0UFlrWG1kRXhwOElxSzJ5T0NYSGwzMVV6UWJZWUh0MzZESHJSWENPdFo3QkJ30gG3AUFVX3lxTE5MSTRUbWF0amVoMHBtd0loakdBa3YwcFlWWWFsT1VER2g5YXpQYmx6SE9Sd0FsVHctVGU5VDNtVXd4d3RKT2lzcHdnWm1VWE0zWjJqeFdHdUZnZWdzX2k5bVRYMHoyZXl5bzRBRkp1WkFRbkRaLXA2clpLa05mZndGeUs1TGdoYXhRTmZFem1PWVVkSUM1REEwQkxLRVNETnI3V1JvbjRmM0o1cV9WU1ZhQ3pSblBPOA?oc=5",
-      "published": "2025-11-12T08:00:00+00:00",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "category": "Crude Oil",
-      "tags": [
-        "WTI",
-        "OPEC"
       ]
     }
   ]
